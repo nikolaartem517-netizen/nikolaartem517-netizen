@@ -1,16 +1,39 @@
-## Hi there 👋
+### Hi, I'm Georgiy 👋
 
-<!--
-**nikolaartem517-netizen/nikolaartem517-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious self-taught developer who loves games, hardware and tinkering
+with low-level stuff. I explore how things work — from game engines to
+console modding — and I'm always learning something new.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech I'm learning & using
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- 🎮 **Game dev** — Godot, GameMaker
+- 🔧 **Electronics** — Arduino
+- 🎨 **3D** — Blender
+- 🐧 **Environment** — Linux, VS Code
+
+---
+
+#### 🔩 Also into
+
+Console modding & homebrew — tinkered with PS Vita and experimented with
+running Linux on it. I enjoy digging into firmware and making hardware do
+things it wasn't meant to.
+
+---
+
+#### 📌 Projects
+
+Pinning my best repositories here soon — stay tuned!
+
+---
+
+📫 **Reach me:** nikolaartem517@gmail.com
